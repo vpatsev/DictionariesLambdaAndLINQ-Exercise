@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\01.CountCharsInAstring\bin\Debug\net9.0\01.CountCharsInAstring.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\01.CountCharsInAstring\bin\Debug\net9.0\01.CountCharsInAstring.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\01.CountCharsInAstring\bin\Debug\net9.0\01.CountCharsInAstring.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\01.CountCharsInAstring\bin\Debug\net9.0\01.CountCharsInAstring.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\01.CountCharsInAstring\bin\Debug\net9.0\01.CountCharsInAstring.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\01.CountCharsInAstring\obj\Debug\net9.0\01.CountCharsInAstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\01.CountCharsInAstring\obj\Debug\net9.0\01.CountCharsInAstring.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\01.CountCharsInAstring\obj\Debug\net9.0\01.CountCharsInAstring.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\01.CountCharsInAstring\obj\Debug\net9.0\01.CountCharsInAstring.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\01.CountCharsInAstring\obj\Debug\net9.0\01.CountCharsInAstring.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\01.CountCharsInAstring\obj\Debug\net9.0\01.CountCharsInAstring.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\01.CountCharsInAstring\obj\Debug\net9.0\refint\01.CountCharsInAstring.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\01.CountCharsInAstring\obj\Debug\net9.0\01.CountCharsInAstring.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\01.CountCharsInAstring\obj\Debug\net9.0\01.CountCharsInAstring.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\01.CountCharsInAstring\obj\Debug\net9.0\ref\01.CountCharsInAstring.dll

@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\02.AminerTask\bin\Debug\net9.0\02.AminerTask.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\02.AminerTask\bin\Debug\net9.0\02.AminerTask.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\02.AminerTask\bin\Debug\net9.0\02.AminerTask.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\02.AminerTask\bin\Debug\net9.0\02.AminerTask.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\02.AminerTask\bin\Debug\net9.0\02.AminerTask.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\02.AminerTask\obj\Debug\net9.0\02.AminerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\02.AminerTask\obj\Debug\net9.0\02.AminerTask.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\02.AminerTask\obj\Debug\net9.0\02.AminerTask.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\02.AminerTask\obj\Debug\net9.0\02.AminerTask.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\02.AminerTask\obj\Debug\net9.0\02.AminerTask.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\02.AminerTask\obj\Debug\net9.0\02.AminerTask.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\02.AminerTask\obj\Debug\net9.0\refint\02.AminerTask.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\02.AminerTask\obj\Debug\net9.0\02.AminerTask.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\02.AminerTask\obj\Debug\net9.0\02.AminerTask.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\02.AminerTask\obj\Debug\net9.0\ref\02.AminerTask.dll
