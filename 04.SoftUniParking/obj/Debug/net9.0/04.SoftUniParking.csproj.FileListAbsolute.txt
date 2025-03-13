@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\04.SoftUniParking\bin\Debug\net9.0\04.SoftUniParking.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\04.SoftUniParking\bin\Debug\net9.0\04.SoftUniParking.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\04.SoftUniParking\bin\Debug\net9.0\04.SoftUniParking.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\04.SoftUniParking\bin\Debug\net9.0\04.SoftUniParking.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\04.SoftUniParking\bin\Debug\net9.0\04.SoftUniParking.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\04.SoftUniParking\obj\Debug\net9.0\04.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\04.SoftUniParking\obj\Debug\net9.0\04.SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\04.SoftUniParking\obj\Debug\net9.0\04.SoftUniParking.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\04.SoftUniParking\obj\Debug\net9.0\04.SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\04.SoftUniParking\obj\Debug\net9.0\04.SoftUniParking.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\04.SoftUniParking\obj\Debug\net9.0\04.SoftUniParking.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\04.SoftUniParking\obj\Debug\net9.0\refint\04.SoftUniParking.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\04.SoftUniParking\obj\Debug\net9.0\04.SoftUniParking.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\04.SoftUniParking\obj\Debug\net9.0\04.SoftUniParking.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\04.SoftUniParking\obj\Debug\net9.0\ref\04.SoftUniParking.dll

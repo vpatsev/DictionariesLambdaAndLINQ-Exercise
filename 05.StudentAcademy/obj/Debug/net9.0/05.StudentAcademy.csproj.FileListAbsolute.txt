@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\05.StudentAcademy\obj\Debug\net9.0\05.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\05.StudentAcademy\obj\Debug\net9.0\05.StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\05.StudentAcademy\obj\Debug\net9.0\05.StudentAcademy.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\05.StudentAcademy\obj\Debug\net9.0\05.StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\05.StudentAcademy\obj\Debug\net9.0\05.StudentAcademy.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\05.StudentAcademy\bin\Debug\net9.0\05.StudentAcademy.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\05.StudentAcademy\bin\Debug\net9.0\05.StudentAcademy.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\05.StudentAcademy\bin\Debug\net9.0\05.StudentAcademy.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\05.StudentAcademy\bin\Debug\net9.0\05.StudentAcademy.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\05.StudentAcademy\bin\Debug\net9.0\05.StudentAcademy.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\05.StudentAcademy\obj\Debug\net9.0\05.StudentAcademy.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\05.StudentAcademy\obj\Debug\net9.0\refint\05.StudentAcademy.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\05.StudentAcademy\obj\Debug\net9.0\05.StudentAcademy.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\05.StudentAcademy\obj\Debug\net9.0\05.StudentAcademy.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Exercise-DictionariesLambdaAndLINQ\05.StudentAcademy\obj\Debug\net9.0\ref\05.StudentAcademy.dll
